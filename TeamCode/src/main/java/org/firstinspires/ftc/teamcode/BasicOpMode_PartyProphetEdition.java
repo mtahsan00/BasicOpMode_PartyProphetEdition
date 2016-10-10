@@ -110,7 +110,7 @@ public class BasicOpMode_PartyProphetEdition extends OpMode {
     }
 
     /*
-     * Code to run ONCE when the driver hits PLAY (or one of the pit crew people #pitcrewlivesmatter)
+     * Code to run ONCE when the driver hits PLAY (or one of the pit crew people #pitcrew)
      */
     @Override
     public void start() {
