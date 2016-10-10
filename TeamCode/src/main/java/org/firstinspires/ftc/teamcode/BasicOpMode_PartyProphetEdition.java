@@ -144,7 +144,6 @@ public class BasicOpMode_PartyProphetEdition extends OpMode {
 
 
     public void partyTime() {
-        int counterStart = 10;
         for (int timer = 10; timer>0; timer--) {
                 telemetry.addData("PARTY TIME STARTS IN", "T-MINUS" + String.valueOf(timer));
         }
