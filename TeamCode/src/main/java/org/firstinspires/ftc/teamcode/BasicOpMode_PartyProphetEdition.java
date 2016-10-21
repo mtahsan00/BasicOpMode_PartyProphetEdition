@@ -69,7 +69,6 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 
 @TeleOp(name="Template: Iterative OpMode", group="Iterative Opmode")  // @Autonomous(...) is the other common choice
-@Disabled
 public class BasicOpMode_PartyProphetEdition extends OpMode {
     /* Declare OpMode members. */
     private ElapsedTime runtime = new ElapsedTime();
